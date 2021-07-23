@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Aiko Takahshi(@bubu-dayo)
+- 👀 I’m interested in Materials Imfomatics with using Python.
+- 🌱 I’m currently learning Python for machine learning.
